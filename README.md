@@ -1,2 +1,2 @@
-eror just a IM project !
+Just a  project !
 
