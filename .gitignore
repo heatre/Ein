@@ -1,2 +1,4 @@
-#Ignore User-specific files
+#ignore some file that is no need to upload.
 *.pro.user
+*.autosave
+/boost
