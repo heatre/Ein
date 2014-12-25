@@ -1,3 +1,10 @@
+/*---------------------------------------------------------------------------------------------
+* copyright statement: Copyright 2014 heatre@126.com
+* license boilerplate: LGPL
+*author:heatre@126.com
+*date:2014-12-25
+*desc:用户登录对话框。
+*---------------------------------------------------------------------------------------------*/
 #ifndef LOGINDLG_H
 #define LOGINDLG_H
 

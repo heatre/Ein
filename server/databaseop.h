@@ -1,3 +1,10 @@
+/*---------------------------------------------------------------------------------------------
+* copyright statement: Copyright 2014 heatre@126.com
+* license boilerplate: LGPL
+*author:heatre@126.com
+*date:2014-12-25
+*desc:数据库操作类
+*---------------------------------------------------------------------------------------------*/
 #ifndef DATABASEOP_H
 #define DATABASEOP_H
 #include<QString>
