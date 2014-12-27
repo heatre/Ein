@@ -5,11 +5,11 @@ create table users
   user_id int unsigned not null auto_increment,
   login_name varchar(45) not null,
   nickname varchar(45) not null,
-  password varchar(1) not null,
+  password varchar(16) not null,
   create_time datetime not null,
   login_status tinyint(1) unsigned not null,
   update_time timestamp not null,
-  primary key (user_id)
+  primary key (user_id,login_name)
 )
 COMMENT = '用户基本信息表。';
 
