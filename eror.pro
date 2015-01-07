@@ -2,5 +2,7 @@ TEMPLATE = subdirs
 
 SUBDIRS += \
     client \
-    server
+    server \
+    tserver \
+    tclient
 
